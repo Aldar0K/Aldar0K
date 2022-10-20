@@ -5,18 +5,18 @@
 ### [My Discord](https://discord.com/users/327510102359932928)
 
 ## My projects:
-### 1) RS Lang. Free service for learning English.
+### 1) RS Lang. Free service for learning English. :gb:
 - [Deploy link](https://lebedev-023046-rslang.netlify.app)
 - [Link to code](https://github.com/Lebedev-023046/rslang)
 
-### 2) Leasing Calculator. Car lease calculator.
+### 2) Leasing Calculator. Car lease calculator. :oncoming_automobile:
 - [Deploy link](https://aldar0k.github.io/leasing-calculator)
 - [Link to code](https://github.com/Aldar0K/leasing-calculator)
 
-### 3) Online Store. Online store with filters, sorting and search.
+### 3) Online Store. Online store with filters, sorting and search. :convenience_store:
 - [Deploy link](https://aldar0k.github.io/rss-projects-stage-1-2/online-store)
 - [Link to code](https://github.com/Aldar0K/rss-projects-stage-1-2/tree/online-store)
 
-### 4) Shelter. Website for a pet shelter.
+### 4) Shelter. Website for a pet shelter. :dog:
 - [Deploy link](https://aldar0k.github.io/rss-projects-stage-1-2/shelter/pages/main)
 - [Link to code](https://github.com/Aldar0K/rss-projects-stage-1-2/tree/shelter)
