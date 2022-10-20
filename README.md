@@ -1,5 +1,3 @@
-# Hi there, I'm Aldar 👋
-
 ## My contacts
 - ### [My LinkedIn](https://www.linkedin.com/in/aldar-okonov-0891b4250)
 - ### [My Telegram](https://t.me/Aldar0K)
