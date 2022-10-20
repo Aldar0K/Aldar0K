@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-## Ny contacts
+### My contacts
 - ### [My LinkedIn](https://www.linkedin.com/in/aldar-okonov-0891b4250)
 - ### [My Telegram](https://t.me/Aldar0K)
 - ### [My Discord](https://discord.com/users/327510102359932928)
 
-## My projects:
+### My projects:
 ### 1) RS Lang. Free service for learning English. :green_book:
 - [Deploy link](https://lebedev-023046-rslang.netlify.app)
 - [Link to code](https://github.com/Lebedev-023046/rslang)
