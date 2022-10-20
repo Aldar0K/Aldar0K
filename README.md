@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+## Ny contacts
 - ### [My LinkedIn](https://www.linkedin.com/in/aldar-okonov-0891b4250)
 - ### [My Telegram](https://t.me/Aldar0K)
 - ### [My Discord](https://discord.com/users/327510102359932928)
