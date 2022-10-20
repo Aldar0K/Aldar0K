@@ -5,7 +5,7 @@
 ### [My Discord](https://discord.com/users/327510102359932928)
 
 ## My projects:
-### 1) RS Lang. Free service for learning English. :gb:
+### 1) RS Lang. Free service for learning English. :green_book:
 - [Deploy link](https://lebedev-023046-rslang.netlify.app)
 - [Link to code](https://github.com/Lebedev-023046/rslang)
 
