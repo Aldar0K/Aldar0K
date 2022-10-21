@@ -1,5 +1,5 @@
 ## About me:
-Hello :wave:, my name is Aldar and I'am a junior frontend develop. Сurrently looking for a job :briefcase:. You can check my [SV](https://aldar0k.github.io/cv/). If you have any suggestions, please contact me :email:. In turn, I offer a high performance and a strong willingness to grow and learn new skills :monocle_face:.
+Hello :wave:, my name is Aldar and I'am a junior frontend develop. Сurrently looking for a job :briefcase:. In turn, I offer a high performance and a strong willingness to grow and learn new skills :monocle_face:. You can check my [SV](https://aldar0k.github.io/cv/). If you have any suggestions, please contact me :email:.
 
 ## My contacts:
 - [My LinkedIn](https://www.linkedin.com/in/aldar-okonov-0891b4250)
