@@ -1,4 +1,7 @@
-## My contacts
+## About me:
+Hello, my name is Aldar and I'am a junior frontend develop. Сurrently looking for a job. if you have any suggestions, please contact me. In turn, I offer a high performance and a strong willingness to grow and learn new skills. You can check [my SV](https://aldar0k.github.io/cv/)
+
+## My contacts:
 - ### [My LinkedIn](https://www.linkedin.com/in/aldar-okonov-0891b4250)
 - ### [My Telegram](https://t.me/Aldar0K)
 - ### [My Discord](https://discord.com/users/327510102359932928)
