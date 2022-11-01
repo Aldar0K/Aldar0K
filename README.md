@@ -11,14 +11,18 @@ Hello :wave:, my name is Aldar and I'am a Frontend Developer. Сurrently looking
 - [Deploy link](https://lebedev-023046-rslang.netlify.app)
 - [Link to code](https://github.com/Lebedev-023046/rslang)
 
-### 2) Leasing Calculator. Car lease calculator. :oncoming_automobile:
+### 2) Hacker News. Interface for hacker news api
+- [Deploy link](https://aldar0k.github.io/hacker-news)
+- [Link to code](https://https://github.com/Aldar0K/hacker-news)
+
+### 3) Leasing Calculator. Car lease calculator. :oncoming_automobile:
 - [Deploy link](https://aldar0k.github.io/leasing-calculator)
 - [Link to code](https://github.com/Aldar0K/leasing-calculator)
 
-### 3) Online Store. Online store with filters, sorting and search. :convenience_store:
+### 4) Online Store. Online store with filters, sorting and search. :convenience_store:
 - [Deploy link](https://aldar0k.github.io/rss-projects-stage-1-2/online-store)
 - [Link to code](https://github.com/Aldar0K/rss-projects-stage-1-2/tree/online-store)
 
-### 4) Shelter. Website for a pet shelter. :dog:
+### 5) Shelter. Website for a pet shelter. :dog:
 - [Deploy link](https://aldar0k.github.io/rss-projects-stage-1-2/shelter/pages/main)
 - [Link to code](https://github.com/Aldar0K/rss-projects-stage-1-2/tree/shelter)
