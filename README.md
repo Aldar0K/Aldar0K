@@ -13,7 +13,7 @@ Hello :wave:, my name is Aldar and I'am a Frontend Developer. Сurrently looking
 
 ### 2) Hacker News. Interface for hacker news api
 - [Deploy link](https://aldar0k.github.io/hacker-news)
-- [Link to code](https://https://github.com/Aldar0K/hacker-news)
+- [Link to code](https://github.com/Aldar0K/hacker-news)
 
 ### 3) Leasing Calculator. Car lease calculator. :oncoming_automobile:
 - [Deploy link](https://aldar0k.github.io/leasing-calculator)
